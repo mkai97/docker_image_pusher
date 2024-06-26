@@ -7,3 +7,5 @@ xhofe/alist:latest
 ghcr.io/toeverything/affine-graphql:stable
 redis
 node
+postgres:10
+postgres
