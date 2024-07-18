@@ -9,3 +9,4 @@ influxdb
 eclipse-mosquitto
 telegraf
 grafana/grafana
+halo/halo
