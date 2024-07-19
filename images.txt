@@ -10,3 +10,4 @@ eclipse-mosquitto
 telegraf
 grafana/grafana
 halo/halo
+thingsboard/tb-gateway
