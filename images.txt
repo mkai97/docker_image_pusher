@@ -4,12 +4,13 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+xiaoyaliu/alist
 
-influxdb
-eclipse-mosquitto
-telegraf
-grafana/grafana
-thingsboard/tb-gateway
+#influxdb
+#eclipse-mosquitto
+#telegraf
+#grafana/grafana
+#thingsboard/tb-gateway
 langgenius/dify-api:1.7.0
 langgenius/dify-api:1.7.0
 langgenius/dify-web:1.7.0
